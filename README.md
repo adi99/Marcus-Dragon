@@ -1,6 +1,4 @@
-# Markus-Dragons
-
- My project is based on the [template](https://github.com/Ivan-on-Tech-Academy/academy-kitties-template) of the Bootcamp of [Ivan On Tech Blockchain Academy](https://academy.ivanontech.com/).
+# Markus-Dragon
 
  My ERC-721 project is an NFT game where you can collect, create, breed and buy/sell your non-fungible dragon tokens.
  To improve the security, Markus-Dragons uses [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) smart contracts to prevent hackers from intercepting the users funds, by using the [Escrow Contract](https://docs.openzeppelin.com/contracts/2.x/api/payment#Escrow) to store the ETH and the users can securely withdraw their funds in their gallery, with their [MetaMask](https://metamask.io/) account.
